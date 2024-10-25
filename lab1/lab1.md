@@ -22,7 +22,7 @@ All info in one picture. F
 
 Все получилось: создал service account, compute engine, менял права доступа. Удалил все.
 
-![photo_2024-10-21_22-36-00.jpg](/lab1/pic1.png)
+https://github.com/DanilGurev/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4225-Gurev-d-s/blob/main/lab1/photo_2024-10-21_22-36-00.jpg
 
 THE END
 </div>
