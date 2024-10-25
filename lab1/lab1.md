@@ -18,8 +18,6 @@ Date of create: 21.09.2024
 
 Date of finished: 21.09.2024
 
-All info in one picture. F
-
 Все получилось: 
 1. создал service account,
 2. Создал вирутальную машину в compute engine,
