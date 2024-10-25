@@ -22,6 +22,6 @@ All info in one picture. F
 
 Все получилось: создал service account, compute engine, менял права доступа. Удалил все.
 
-![my-photo1./photo1.jpg](/lab1/pic1.png)
+![my-photo1./photo1.jpg](/lab1/photo1.jpg)
 THE END
 </div>
