@@ -20,8 +20,12 @@ Date of finished: 21.09.2024
 
 All info in one picture. F
 
-Все получилось: создал service account, compute engine, менял права доступа. Удалил все.
+Все получилось: 
+1. создал service account,
+2. Создал вирутальную машину в compute engine,
+3. Скопировал файлы в виртуальной машине
+4. Поменял права доступа.
+5. Удалил виртуальную машину и другие файлы.
 
 ![my-photo1./photo1.jpg](/lab1/photo1.jpg)
-THE END
 </div>
