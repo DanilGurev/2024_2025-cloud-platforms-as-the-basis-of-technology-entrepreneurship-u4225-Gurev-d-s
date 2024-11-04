@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/9c88c5b0-0c44-4f8c-823e-132bf01a8f58)<div align="center">
 University: [ITMO University](https://itmo.ru/ru/)
 
 Faculty: [FTMI](https://ftmi.itmo.ru/)
