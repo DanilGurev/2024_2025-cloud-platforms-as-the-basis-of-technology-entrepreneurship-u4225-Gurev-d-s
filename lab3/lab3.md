@@ -48,9 +48,13 @@ Date of finished: 05.11.2024
 6. Создал ссылки на файлы
 
 https://storage.googleapis.com/gurev-daniil-bucket/hey%20hey/1380915416_835735763.gif
+
 https://storage.googleapis.com/gurev-daniil-bucket/hey%20hey/IMG_7727.jpg
+
 https://storage.googleapis.com/gurev-daniil-bucket/hey%20hey/images.jpg
+
 https://storage.googleapis.com/gurev-daniil-bucket/hey%20hey/stonks-template.png
+
 
 Проверил работоспособность ссылок:
 ![image](https://github.com/user-attachments/assets/6344f282-e91f-4098-bf0b-755b2b9952b8)
