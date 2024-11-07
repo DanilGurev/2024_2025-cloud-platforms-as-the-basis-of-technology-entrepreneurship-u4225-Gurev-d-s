@@ -81,7 +81,7 @@
 
 ---
 
-## Схема инфраструктуры (PlantUML код)
+## Схема инфраструктуры
 
 ![image](https://github.com/user-attachments/assets/8e10a8da-f2a2-4576-9851-5acebb76b81a)
 
